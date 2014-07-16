@@ -2,10 +2,10 @@ dictionary.js
 =============
 ####The key-value map collection data struct for javascript.
 
-        author Roy Du <roy@leadnt.com><br>
-        write in july 16th 2014.<br>
-        my blog: http://www.leadnt.com<br>
-        version 0.1.0<br>
+author Roy Du <roy@leadnt.com><br>
+write in july 16th 2014.<br>
+my blog: http://www.leadnt.com<br>
+version 0.1.0<br>
 
 ### Usage:
 #### init a instance.
