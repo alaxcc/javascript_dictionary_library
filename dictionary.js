@@ -1,25 +1,10 @@
 /**
 * key-value map collection data struct for js.
 *
-*
-* Usage:
-* init a instance.
-* var dic = new Dictionary();
-* add a key-value to dictionary
-* dic.add('a',123);
-*
-* check if exist key in dictionary,here is return true
-* dic.contains('a')
-*
-* get value by key
-* var v = dic.get('a')
-*
-* remove the key-value from dictionary
-* dic.remove('a')
-* 
 * @author Roy Du <roy@leadnt.com>
 * @write in july 16th 2014.
 * @link http://www.leadnt.com
+* @github https://github.com/roydux/dictionary.js
 * @version 0.1.0
 **/
 
